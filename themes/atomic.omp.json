@@ -4,21 +4,21 @@
     {
       "alignment": "left",
       "segments": [
-        //{
-        //  "background": "#0077c2",
-        //  "foreground": "#ffffff",
-        //  "leading_diamond": "\u256d\u2500\ue0b6",
-        //  "style": "diamond",
-        //  "template": "\uf120 {{ .Name }} ",
-        //  "type": "shell"
-        //},
-        //{
-        //  "background": "#ef5350",
-        //  "foreground": "#FFFB38",
-        //  "style": "diamond",
-        //  "template": "<parentBackground>\ue0b0</> \uf292 ",
-        //  "type": "root"
-        //},
+        {
+          "background": "#0077c2",
+          "foreground": "#ffffff",
+          "leading_diamond": "\u256d\u2500\ue0b6",
+          "style": "diamond",
+          "template": "\uf120 {{ .Name }} ",
+          "type": "shell"
+        },
+        {
+          "background": "#ef5350",
+          "foreground": "#FFFB38",
+          "style": "diamond",
+          "template": "<parentBackground>\ue0b0</> \uf292 ",
+          "type": "root"
+        },
         {
           "background": "#FF9248",
           "foreground": "#2d3436",
