@@ -210,8 +210,8 @@
           "type": "kubectl"
         },
         {
-          "background": "#b2bec3",
-          "foreground": "#222222",
+          "background": "p:pink",
+          "foreground": "p:text",
           "leading_diamond": "\ue0b6",
           "trailing_diamond": "<transparent,background>\ue0b2</>",
           "properties": {
@@ -243,8 +243,8 @@
         //  "type": "battery"
         //},
         {
-          "background": "#40c4ff",
-          "foreground": "#ffffff",
+          "background": "p:blue",
+          "foreground": "p:wight",
           "invert_powerline": true,
           "leading_diamond": "\ue0b2",
           "properties": {
