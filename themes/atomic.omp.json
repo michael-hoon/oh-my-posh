@@ -12,13 +12,13 @@
         //  "template": "\uf120 {{ .Name }} ",
         //  "type": "shell"
         //},
-        {
-          "background": "#ef5350",
-          "foreground": "#FFFB38",
-          "style": "diamond",
-          "template": "<parentBackground>\ue0b0</> \uf292 ",
-          "type": "root"
-        },
+        //{
+        //  "background": "#ef5350",
+        //  "foreground": "#FFFB38",
+        //  "style": "diamond",
+        //  "template": "<parentBackground>\ue0b0</> \uf292 ",
+        //  "type": "root"
+        //},
         {
           "background": "#FF9248",
           "foreground": "#2d3436",
